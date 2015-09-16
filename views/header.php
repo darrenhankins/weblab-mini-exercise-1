@@ -1,4 +1,0 @@
-<header>
-  <h1>Contact Us</h1>
-
-</header>
